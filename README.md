@@ -107,4 +107,4 @@ o	Category → Check performance of product categories like Saree, Kurta, Blouse
 ---
 
 ## 📷 Report Preview  
-  
+  ![Report Preview](https://github.com/Geetansh2211/Store-AnnualReport/blob/main/vaishali.png)
